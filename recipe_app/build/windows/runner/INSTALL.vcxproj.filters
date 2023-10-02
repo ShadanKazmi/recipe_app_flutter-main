@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Shadan Syed Kazmi\AndroidStudioProjects\recipe_app_flutter-main\recipe_app\build\windows\CMakeFiles\9ee5999b389f2c39322f4040ca0e9d2d\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3BA93346-1CA1-3B37-8622-F023734B1957}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

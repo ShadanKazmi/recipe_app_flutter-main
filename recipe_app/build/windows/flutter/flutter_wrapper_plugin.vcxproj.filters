@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Shadan Syed Kazmi\AndroidStudioProjects\recipe_app_flutter-main\recipe_app\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Shadan Syed Kazmi\AndroidStudioProjects\recipe_app_flutter-main\recipe_app\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Shadan Syed Kazmi\AndroidStudioProjects\recipe_app_flutter-main\recipe_app\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Shadan Syed Kazmi\AndroidStudioProjects\recipe_app_flutter-main\recipe_app\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3BA93346-1CA1-3B37-8622-F023734B1957}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3B4ADFEF-09C7-31E7-9A1E-172988386DB0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

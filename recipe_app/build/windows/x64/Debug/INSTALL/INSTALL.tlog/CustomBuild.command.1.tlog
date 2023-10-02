@@ -1,0 +1,10 @@
+^C:\USERS\SHADAN SYED KAZMI\ANDROIDSTUDIOPROJECTS\RECIPE_APP_FLUTTER-MAIN\RECIPE_APP\BUILD\WINDOWS\CMAKEFILES\8C060D85FBDFCE10EFB57A31F68A67A7\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
